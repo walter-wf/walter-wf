@@ -1,9 +1,5 @@
 ### Hi, welcome to my profile 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Software+Developer)](https://git.io/typing-svg)
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=walter-wf&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 - 🛠 Technologies and tools
 
